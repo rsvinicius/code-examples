@@ -1,2 +1,2 @@
 # code-examples
-Collection of code examples
+This repo contains example projects which show how to use different technologies. See the READMEs in each subdirectory of this repo for more information on each module.
