@@ -1,3 +1,6 @@
 [submodule "functional-programming"]
 	path = functional-programming
 	url = git@github.com:rsvinicius/functional-programming.git
+[submodule "clean-code"]
+	path = clean-code
+	url = git@github.com:rsvinicius/clean-code.git
