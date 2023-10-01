@@ -4,3 +4,6 @@
 [submodule "clean-code"]
 	path = clean-code
 	url = git@github.com:rsvinicius/clean-code.git
+[submodule "structural-design-patterns"]
+	path = structural-design-patterns
+	url = git@github.com:rsvinicius/structural-design-patterns.git
