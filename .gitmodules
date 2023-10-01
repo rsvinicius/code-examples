@@ -10,3 +10,12 @@
 [submodule "behavioral-design-patterns"]
 	path = behavioral-design-patterns
 	url = git@github.com:rsvinicius/behavioral-design-patterns.git
+[submodule "spring-jms-activemq-demo"]
+	path = spring-jms-activemq-demo
+	url = git@github.com:rsvinicius/spring-jms-activemq-demo.git
+[submodule "spring-ff4j-redis-demo"]
+	path = spring-ff4j-redis-demo
+	url = git@github.com:rsvinicius/spring-ff4j-redis-demo.git
+[submodule "spring-webflux-mongodb-demo"]
+	path = spring-webflux-mongodb-demo
+	url = git@github.com:rsvinicius/spring-webflux-mongodb-demo.git
