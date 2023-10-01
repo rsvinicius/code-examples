@@ -7,3 +7,6 @@
 [submodule "structural-design-patterns"]
 	path = structural-design-patterns
 	url = git@github.com:rsvinicius/structural-design-patterns.git
+[submodule "behavioral-design-patterns"]
+	path = behavioral-design-patterns
+	url = git@github.com:rsvinicius/behavioral-design-patterns.git
