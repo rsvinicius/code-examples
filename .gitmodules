@@ -10,6 +10,3 @@
 [submodule "behavioral-design-patterns"]
 	path = behavioral-design-patterns
 	url = git@github.com:rsvinicius/behavioral-design-patterns.git
-[submodule "spring-jms-demo"]
-	path = spring-jms-demo
-	url = git@github.com:rsvinicius/spring-jms-demo.git
