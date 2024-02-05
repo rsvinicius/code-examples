@@ -19,3 +19,6 @@
 [submodule "spring-webflux-mongodb-demo"]
 	path = spring-webflux-mongodb-demo
 	url = git@github.com:rsvinicius/spring-webflux-mongodb-demo.git
+[submodule "spring-ff4j-webconsole-demo"]
+	path = spring-ff4j-webconsole-demo
+	url = git@github.com:rsvinicius/spring-ff4j-webconsole-demo.git
