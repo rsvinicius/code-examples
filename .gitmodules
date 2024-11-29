@@ -22,3 +22,6 @@
 [submodule "spring-ff4j-webconsole-demo"]
 	path = spring-ff4j-webconsole-demo
 	url = git@github.com:rsvinicius/spring-ff4j-webconsole-demo.git
+[submodule "spring-ai-demo"]
+	path = spring-ai-demo
+	url = https://github.com/rsvinicius/spring-ai-demo.git
